@@ -1,0 +1,11 @@
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\bin\Debug\WindowsFormsAppDemo3.exe.config
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\bin\Debug\WindowsFormsAppDemo3.exe
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\bin\Debug\WindowsFormsAppDemo3.pdb
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.csproj.AssemblyReference.cache
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.Form1.resources
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.Properties.Resources.resources
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.csproj.GenerateResource.cache
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.csproj.CoreCompileInputs.cache
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.exe
+C:\Users\ilyar\source\repos1\WindowsFormsAppDemo3\WindowsFormsAppDemo3\obj\Debug\WindowsFormsAppDemo3.pdb
